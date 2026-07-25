@@ -1,5 +1,12 @@
 # 📊 Data Science Job Market Analysis
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
 ## 📌 Project Overview
 
 This project analyzes the Data Science Job Market dataset using Python. It includes data preprocessing, exploratory data analysis (EDA), visualization, and insights into salary trends, job roles, company size, remote work, and experience levels.
