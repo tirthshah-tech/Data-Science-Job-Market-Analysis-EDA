@@ -85,6 +85,14 @@ Run
 ```bash
 jupyter notebook
 ```
+## 🚀 Future Improvements
+
+- Build a salary prediction model using Machine Learning.
+- Develop an interactive dashboard using Streamlit.
+- Perform advanced feature engineering.
+- Deploy the project on Streamlit Cloud.
+- Add support for real-time datasets.
+- 
 ## 👨‍💻 Author
 
 **Tirth Shah**
